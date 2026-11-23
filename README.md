@@ -3,9 +3,7 @@ of the 42 curriculum by razimmer._
 
 ## **PUSH_SWAP**
 
-### **✦━───༺༻───━✦D E S C R I P T I O N✦━───༺༻───━✦**
-
-
+### DESCRIPTION
 
 push_swap is a sorting algorithm project that aims to sort a stack of integers
 using a limited set of operations and the smallest possible number of moves.
@@ -68,11 +66,7 @@ For input sizes greater than 5, the program uses a chunk-based indexed sorting a
 	- Elements stored in stack B are then pushed back to stack A in the correct order.
 
 
-
-
-### **✦━──༺༻───━✦I N S T R U C T I O N S✦━───༺༻──━✦**
-
-
+## INSTRUCTIONS
 
 ### Compilation
 Run `make` to build the `push_swap` executable.
@@ -105,7 +99,7 @@ Run `make` to build the `push_swap` executable.
 
 
 
-### **✦━───༺༻────━✦R E S O U R C E S✦━────༺༻───━✦**
+## RESOURCES
 
 - 42 push_swap subject PDF
 - Sorting algorithms: Wikipedia
